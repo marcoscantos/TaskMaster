@@ -1,6 +1,4 @@
 # TaskMaster
-
-# Título
 Esto es TaskMaster, una aplicación diseñada para facilitar la gestión de tareas tanto personales como en equipo. 
 Optimiza tu productividad con esta plataforma eficiente y sencilla.
 
